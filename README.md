@@ -11,7 +11,7 @@
   - [소개](#소개)
   - [역할 분담](#역할-분담)
   - [산출 문서](#산출-문서)
-  - [State machine diagram](#state-machine-diagram)
+     - [State machine diagram](#state-machine-diagram)
   - [사용 기술](#사용-기술)
   - [사용한 APIs](#사용한-apis)
   - [Requirements](#requirements)
