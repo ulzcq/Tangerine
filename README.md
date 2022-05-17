@@ -7,8 +7,7 @@
 
 <details>
      <summary>목차</summary>
-
-- [Tangerine project : 뭐머귤래? 🍊](#tangerine-project--뭐머귤래-)
+     
   - [소개](#소개)
   - [역할 분담](#역할-분담)
   - [산출 문서](#산출-문서)
